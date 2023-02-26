@@ -1,0 +1,63 @@
+body{
+        background-color: #BCF0FF ;
+}
+
+.header{
+        display: flex;
+        justify-content: center;
+        
+      
+        
+
+}
+.foto{
+        border-radius: 60px;
+}
+
+
+.navegador{
+        
+        display: flex;
+        justify-content:space-around;
+        background: cornflowerblue;
+        border:solid;
+        font-size:25px;
+        text-decoration: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+     
+
+}
+
+.estilonav{
+        text-decoration: none;
+        background: #ffffff;
+        border-radius: 800px;
+        padding: 10px;
+        
+}
+.estilonav:hover{
+        background:rgb(171, 237, 253);
+}
+
+.navegador1{
+        background-color: #ffffff;
+        width: 250px;
+	height: 290px;
+        position: relative;
+        left: 100px;
+        font-size: 25px;
+}
+
+.navegador2{
+        background-color: #ffffff;
+        width: 250px;
+	height: 290px;
+        position: relative;
+        left: 700px;
+        font-size: 25px;
+}
+
+
+
+
+
